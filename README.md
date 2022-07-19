@@ -16,19 +16,31 @@ Twint makes use of Twitter's search operators that allows you to scrape Tweets f
 Twint also creates unique Twitter queries that allow you to scrape a Twitter user's followers, Tweets they've liked, and who they follow without having to utilize any login, API, Selenium, or browser emulation.
 
 ## Prerequisites
-Python 3.6;
-aiohttp;
-aiodns;
-beautifulsoup4;
-cchardet;
-elasticsearch;
-pysocks;
-pandas (>=0.23.0);
-aiohttp_socks;
-schedule;
-geopy;
-fake-useragent;
-py-googletransx.
+[Python](https://www.python.org/downloads/)
+
+[aiohttp](https://pypi.org/project/aiohttp/)
+
+[aiodns](https://pypi.org/project/aiodns/)
+
+[beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
+
+[cchardet](https://pypi.org/project/cchardet/)
+
+elasticsearch
+
+[pysocks](https://pypi.org/project/PySocks/)
+
+[pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+
+[aiohttp_socks](https://pypi.org/project/aiohttp-socks/)
+
+[schedule](https://pypi.org/project/schedule/)
+
+[geopy](https://pypi.org/project/geopy/)
+
+[fake-useragent](https://pypi.org/project/fake-useragent/)
+
+[py-googletransx](https://pypi.org/project/googletransx/)
 
 
 
